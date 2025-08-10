@@ -1,0 +1,35 @@
+# 主要科技公司 / Major Tech Companies
+google.com
+microsoft.com
+apple.com
+amazon.com
+meta.com
+
+# 开发者资源 / Developer Resources
+github.com
+stackoverflow.com
+python.org
+nodejs.org
+npmjs.com
+
+# 社交媒体与通讯 / Social Media & Communication
+twitter.com
+linkedin.com
+discord.com
+slack.com
+
+# 新闻媒体 / News & Media
+cnn.com
+bbc.com
+reuters.com
+techcrunch.com
+
+# 云服务提供商 / Cloud Providers
+aws.amazon.com
+azure.microsoft.com
+cloud.google.com
+
+# 教育资源 / Educational Resources
+wikipedia.org
+mozilla.org
+w3schools.com

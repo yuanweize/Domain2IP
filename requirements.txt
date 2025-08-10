@@ -1,0 +1,12 @@
+# Domain Resolver / 域名解析器 - No external dependencies required / 无需外部依赖
+# This project uses only Python standard library modules / 本项目仅使用Python标准库模块:
+# - socket (for DNS resolution / 用于DNS解析)
+# - concurrent.futures (for parallel processing / 用于并行处理)
+# - argparse (for command line interface / 用于命令行界面)
+# - pathlib (for file path handling / 用于文件路径处理)
+# - typing (for type hints / 用于类型提示)
+
+# For development and testing (optional) / 用于开发和测试（可选）:
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
