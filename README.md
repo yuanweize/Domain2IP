@@ -9,12 +9,12 @@ A fast and simple Python tool for batch domain name to IP address resolution wit
 
 ## Features ✨ / 功能特点
 
-- 🚀 **Fast parallel processing** / **快速并行处理** - Resolve multiple domains simultaneously / 同时解析多个域名
-- 📝 **Simple domain list management** / **简单域名列表管理** - Easy-to-maintain text file format / 易于维护的文本文件格式
-- 📊 **Detailed reporting** / **详细报告** - Success/failure statistics and error details / 成功/失败统计和错误详情
-- 🔧 **Flexible configuration** / **灵活配置** - Customizable input/output files and worker count / 可自定义输入输出文件和工作线程数
-- ❌ **Robust error handling** / **健壮错误处理** - Graceful handling of DNS resolution failures / 优雅处理DNS解析失败
-- 🎯 **Multiple output formats** / **多种输出格式** - IP-only list and detailed mapping / 纯IP列表和详细映射
+- **Fast parallel processing** / **快速并行处理** - Resolve multiple domains simultaneously / 同时解析多个域名
+- **Simple domain list management** / **简单域名列表管理** - Easy-to-maintain text file format / 易于维护的文本文件格式
+- **Detailed reporting** / **详细报告** - Success/failure statistics and error details / 成功/失败统计和错误详情
+- **Flexible configuration** / **灵活配置** - Customizable input/output files and worker count / 可自定义输入输出文件和工作线程数
+- **Robust error handling** / **健壮错误处理** - Graceful handling of DNS resolution failures / 优雅处理DNS解析失败
+- **Multiple output formats** / **多种输出格式** - IP-only list and detailed mapping / 纯IP列表和详细映射
 
 ## Quick Start 🚀 / 快速开始
 
@@ -191,11 +191,11 @@ Contributions are welcome! Please feel free to submit a Pull Request. / 欢迎�
 4. Push to the branch / 推送到分支 (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request / 开启Pull Request
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Changelog 📝
+## Changelog
 
 ### v1.0.0
 - Initial release
