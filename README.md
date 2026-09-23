@@ -146,15 +146,16 @@ cat ip_addresses.txt | grep -v "^#" | xargs -I {} ping -c 1 {}
 ### Option 1: Direct Download / 选项1：直接下载
 
 ```bash
-wget https://raw.githubusercontent.com/yourusername/domain-resolver/main/domain_resolver.py
+wget https://raw.githubusercontent.com/yuanweize/Domain2IP/main/domain_resolver.py
 ```
 
 ### Option 2: Clone Repository / 选项2：克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/domain-resolver.git
-cd domain-resolver
+git clone https://github.com/yuanweize/Domain2IP.git
+cd Domain2IP
 ```
+
 
 ### Option 3: pip install (if published) / 选项3：pip安装（如果已发布）
 
@@ -207,7 +208,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or run into issues, please / 如果您有任何问题或遇到问题，请：
 
-1. Check the [Issues](https://github.com/yourusername/domain-resolver/issues) page / 查看Issues页面
+1. Check the [Issues](https://github.com/yuanweize/Domain2IP/issues) page / 查看Issues页面
+
 2. Create a new issue with detailed information / 创建新issue并提供详细信息
 3. Include your Python version and operating system / 包含您的Python版本和操作系统信息
 
